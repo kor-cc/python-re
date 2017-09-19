@@ -14,7 +14,7 @@ host = ["192.168.1.1", "192.168.1.123", "192.168.2.1",
 report_ok = []
 report_error = []
 #
-
+#uat
 
 
 class PING(Thread):
