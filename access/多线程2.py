@@ -15,6 +15,8 @@ report_ok = []
 report_error = []
 
 
+
+
 class PING(Thread):
     def __init__(self, ip):
         Thread.__init__(self)
